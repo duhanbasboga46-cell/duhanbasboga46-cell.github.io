@@ -15,12 +15,5 @@ graph LR
     C --> D[PDF Oluşturma]
     D --> E[E-posta Gönderimi]
     style B fill:#f9f,stroke:#333,stroke-width:2px
+```
 
-
-## 📁 Öne Çıkan Projeler
-
-| Proje Adı | Teknoloji | Link |
-| :--- | :--- | :--- |
-| **AI News Tracker** | Python, Gemini API | [Görüntüle](https://github.com/duhanbasboga46-cell/ai-news-tracker-gemini) |
-| **3D Mekanik Tasarımlar** | Sketchfab, CAD | [3D İncele](#) |
-| **Nutrition Tracker** | Cloud Systems, Python | [Detaylar](#) |
