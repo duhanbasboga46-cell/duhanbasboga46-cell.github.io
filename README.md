@@ -17,3 +17,13 @@ graph LR
     style B fill:#f9f,stroke:#333,stroke-width:2px
 ```
 
+## ⚙️ Mekanik Tasarım: Redüktör (3D)
+
+<div align="center">
+  <iframe title="Redüktör_sldasm" width="800" height="450" 
+    src="https://sketchfab.com/models/6b926f0166ca47b59d7cc9255300fc5a/embed?autostart=1&ui_theme=dark" 
+    frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" 
+    allow="autoplay; fullscreen; xr-spatial-tracking">
+  </iframe>
+  <p><i>Modeli mouse ile döndürebilir, detayları incelemek için yakınlaştırabilirsiniz.</i></p>
+</div>
